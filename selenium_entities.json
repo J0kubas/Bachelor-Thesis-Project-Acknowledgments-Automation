@@ -1,0 +1,5061 @@
+{
+  "EURECA": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q614574",
+    "paper_ids": [
+      "234"
+    ]
+  },
+  "FP7": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3045966",
+    "paper_ids": [
+      "234",
+      "131",
+      "207"
+    ]
+  },
+  "ImREAL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1058134",
+    "paper_ids": [
+      "234"
+    ]
+  },
+  "the 863 Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2668388",
+    "paper_ids": [
+      "306",
+      "357",
+      "133"
+    ]
+  },
+  "the Fundamental Research Funds for the Central Universities": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q57589893",
+    "paper_ids": [
+      "306",
+      "357",
+      "283"
+    ]
+  },
+  "NSFC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4501917",
+    "paper_ids": [
+      "306",
+      "133",
+      "314",
+      "422",
+      "368",
+      "283",
+      "136"
+    ]
+  },
+  "the Swiss Federal Office for the Environment": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q678661",
+    "paper_ids": [
+      "97"
+    ]
+  },
+  "Hamburg University of Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1060",
+    "paper_ids": [
+      "97"
+    ]
+  },
+  "FOEN": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q12314",
+    "paper_ids": [
+      "97"
+    ]
+  },
+  "European Commission": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q8880",
+    "paper_ids": [
+      "161",
+      "394",
+      "321",
+      "294",
+      "182",
+      "121"
+    ]
+  },
+  "the University of Manchester": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q230899",
+    "paper_ids": [
+      "161",
+      "53"
+    ]
+  },
+  "DARPA": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q207361",
+    "paper_ids": [
+      "380",
+      "323",
+      "286",
+      "22",
+      "35",
+      "203",
+      "330",
+      "16",
+      "5",
+      "50",
+      "59",
+      "346",
+      "0",
+      "52",
+      "68",
+      "127"
+    ]
+  },
+  "the U.S. Government": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q48525",
+    "paper_ids": [
+      "380",
+      "323",
+      "330",
+      "346",
+      "176"
+    ]
+  },
+  "LORELEI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q20539609",
+    "paper_ids": [
+      "380"
+    ]
+  },
+  "AFRL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3607176",
+    "paper_ids": [
+      "380",
+      "323",
+      "116",
+      "203",
+      "330",
+      "346"
+    ]
+  },
+  "EU": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q458",
+    "paper_ids": [
+      "79",
+      "63",
+      "61",
+      "204",
+      "80",
+      "451",
+      "405",
+      "60",
+      "429",
+      "14",
+      "229",
+      "401",
+      "105",
+      "326",
+      "109",
+      "179",
+      "135",
+      "303",
+      "75",
+      "408",
+      "48",
+      "376",
+      "446",
+      "421",
+      "156",
+      "184",
+      "58",
+      "212",
+      "228",
+      "233",
+      "162",
+      "205",
+      "142",
+      "435",
+      "117",
+      "454",
+      "442",
+      "312",
+      "2",
+      "42",
+      "45",
+      "171",
+      "260",
+      "416",
+      "282",
+      "74",
+      "136",
+      "244",
+      "115",
+      "256",
+      "88",
+      "341",
+      "240",
+      "250",
+      "259",
+      "140",
+      "317",
+      "145",
+      "78"
+    ]
+  },
+  "NSF": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q77712635",
+    "paper_ids": [
+      "223",
+      "89",
+      "261",
+      "199",
+      "22",
+      "113",
+      "278",
+      "70",
+      "330",
+      "243",
+      "47",
+      "50",
+      "52",
+      "107",
+      "11",
+      "279",
+      "125",
+      "245"
+    ]
+  },
+  "the National Science Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q304878",
+    "paper_ids": [
+      "223",
+      "126",
+      "199",
+      "43",
+      "185",
+      "102",
+      "65",
+      "330",
+      "243",
+      "313",
+      "47",
+      "277",
+      "50",
+      "235",
+      "127",
+      "279"
+    ]
+  },
+  "SWAP": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q104858864",
+    "paper_ids": [
+      "63",
+      "26",
+      "48",
+      "88"
+    ]
+  },
+  "IST": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Introduction/de",
+    "paper_ids": [
+      "63",
+      "36",
+      "48",
+      "42",
+      "136",
+      "149",
+      "111"
+    ]
+  },
+  "Ministry of Education Innovation Research Team": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2726949",
+    "paper_ids": [
+      "362"
+    ]
+  },
+  "National Science Foundation of China": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4501917",
+    "paper_ids": [
+      "362"
+    ]
+  },
+  "The Fundamental Theory and Applications of Big Data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q114261026",
+    "paper_ids": [
+      "362"
+    ]
+  },
+  "the Research Innovation Program for College Graduates of Jiangsu Province": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q112676489",
+    "paper_ids": [
+      "357"
+    ]
+  },
+  "the National Natural Science Foundation of China": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4501917",
+    "paper_ids": [
+      "357",
+      "397",
+      "314",
+      "339",
+      "439",
+      "310"
+    ]
+  },
+  "the UK Technology Strategy Board": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q99831996",
+    "paper_ids": [
+      "268"
+    ]
+  },
+  "the British Broadcasting Corporation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q9531",
+    "paper_ids": [
+      "268"
+    ]
+  },
+  "the Automatic Broadcast Content Interlinking Project": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q113731375",
+    "paper_ids": [
+      "268"
+    ]
+  },
+  "ABC-IP": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q169889",
+    "paper_ids": [
+      "268"
+    ]
+  },
+  "MetaBroadcast Ltd": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11303377",
+    "paper_ids": [
+      "268"
+    ]
+  },
+  "Science and Technology Planning Project": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1074103",
+    "paper_ids": [
+      "397"
+    ]
+  },
+  "National Natural Science Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4501917",
+    "paper_ids": [
+      "397",
+      "414"
+    ]
+  },
+  "Innovation Research Team": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "397"
+    ]
+  },
+  "National Key Research and Development Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Database_reports/List_of_properties/all",
+    "paper_ids": [
+      "397"
+    ]
+  },
+  "Ministry of Education": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4294642",
+    "paper_ids": [
+      "397",
+      "368"
+    ]
+  },
+  "Project of China Knowledge Centre for Engineering Science and Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5099555",
+    "paper_ids": [
+      "397"
+    ]
+  },
+  "Teaching Reform Project of XJTU": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q85617667",
+    "paper_ids": [
+      "397"
+    ]
+  },
+  "Innovative Research Group": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q33122020",
+    "paper_ids": [
+      "397"
+    ]
+  },
+  "the Aberdeen-Wuhan Joint Research Institute": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q113678570",
+    "paper_ids": [
+      "378"
+    ]
+  },
+  "BMBF": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q23755544",
+    "paper_ids": [
+      "319",
+      "275",
+      "213",
+      "183",
+      "451",
+      "14",
+      "194",
+      "446",
+      "167",
+      "424",
+      "454",
+      "400",
+      "20"
+    ]
+  },
+  "the European Union\u2019s": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q458",
+    "paper_ids": [
+      "319",
+      "30",
+      "267",
+      "441",
+      "370",
+      "371",
+      "425",
+      "217",
+      "197",
+      "388",
+      "343",
+      "384",
+      "375",
+      "374",
+      "270",
+      "458",
+      "327",
+      "247",
+      "355",
+      "276"
+    ]
+  },
+  "Ministry of Education and Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2726949",
+    "paper_ids": [
+      "319",
+      "213",
+      "183",
+      "451",
+      "194",
+      "167"
+    ]
+  },
+  "the LEDS Project": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q62395514",
+    "paper_ids": [
+      "319"
+    ]
+  },
+  "Big Data Europe": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q91724539",
+    "paper_ids": [
+      "319",
+      "375"
+    ]
+  },
+  "ORISE": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1996767",
+    "paper_ids": [
+      "18"
+    ]
+  },
+  "the Oak Ridge Institute for Science and Education": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7073702",
+    "paper_ids": [
+      "18"
+    ]
+  },
+  "Rijksmuseum": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q190804",
+    "paper_ids": [
+      "30",
+      "386"
+    ]
+  },
+  "TU/e": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q280824",
+    "paper_ids": [
+      "30"
+    ]
+  },
+  "Telematica Instituut": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7064503",
+    "paper_ids": [
+      "30"
+    ]
+  },
+  "NWO/NASH": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q21680767",
+    "paper_ids": [
+      "30"
+    ]
+  },
+  "ToKeN2000": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q107915272",
+    "paper_ids": [
+      "30",
+      "36"
+    ]
+  },
+  "Information Society Programme": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1933649",
+    "paper_ids": [
+      "30"
+    ]
+  },
+  "Federal Ministry for Education, Science and Culture": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1006371",
+    "paper_ids": [
+      "137"
+    ]
+  },
+  "MINECO": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q27703163",
+    "paper_ids": [
+      "335"
+    ]
+  },
+  "WU": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q34290",
+    "paper_ids": [
+      "335"
+    ]
+  },
+  "Austrian Science Fund": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q383273",
+    "paper_ids": [
+      "335"
+    ]
+  },
+  "European Union\u2019s": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q458",
+    "paper_ids": [
+      "335"
+    ]
+  },
+  "the dot.rural Digital Economy Hub": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q58155625",
+    "paper_ids": [
+      "198"
+    ]
+  },
+  "Federal Ministry of Education and Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q606227",
+    "paper_ids": [
+      "275"
+    ]
+  },
+  "the European Research Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1377836",
+    "paper_ids": [
+      "275",
+      "441"
+    ]
+  },
+  "Google": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q9366",
+    "paper_ids": [
+      "275",
+      "22",
+      "372"
+    ]
+  },
+  "Software Campus": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2283",
+    "paper_ids": [
+      "275"
+    ]
+  },
+  "the German": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1206012",
+    "paper_ids": [
+      "275",
+      "183",
+      "451",
+      "194",
+      "167"
+    ]
+  },
+  "Deependance": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q105874312",
+    "paper_ids": [
+      "275",
+      "213"
+    ]
+  },
+  "the National Natural Science Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4501917",
+    "paper_ids": [
+      "449"
+    ]
+  },
+  "the Key R&D Program of Jiangsu Science and Technology Department": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q467963",
+    "paper_ids": [
+      "449"
+    ]
+  },
+  "Max Planck Institute for Informatics": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q565400",
+    "paper_ids": [
+      "445"
+    ]
+  },
+  "Telematica": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q485669",
+    "paper_ids": [
+      "96"
+    ]
+  },
+  "DoCoMo": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q853958",
+    "paper_ids": [
+      "96"
+    ]
+  },
+  "the Millennium Nucleus Center for Semantic Web Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q27910422",
+    "paper_ids": [
+      "350",
+      "340",
+      "311"
+    ]
+  },
+  "Stanford University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q41506",
+    "paper_ids": [
+      "299",
+      "401",
+      "0"
+    ]
+  },
+  "Falcons.  \fConcept Search": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q29302752",
+    "paper_ids": [
+      "299"
+    ]
+  },
+  "myGrid": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q56967106",
+    "paper_ids": [
+      "39",
+      "83",
+      "67",
+      "69",
+      "247"
+    ]
+  },
+  "EPSRC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q62635266",
+    "paper_ids": [
+      "39",
+      "460",
+      "166",
+      "83",
+      "60",
+      "189",
+      "452",
+      "326",
+      "321",
+      "353",
+      "432",
+      "294",
+      "233",
+      "200",
+      "173",
+      "87",
+      "242",
+      "289",
+      "67",
+      "260",
+      "419",
+      "392",
+      "192",
+      "284",
+      "459",
+      "37",
+      "417",
+      "259",
+      "125",
+      "351"
+    ]
+  },
+  "WonderWeb": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "61",
+      "60",
+      "48"
+    ]
+  },
+  "Link\u00a8oping University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q782600",
+    "paper_ids": [
+      "340"
+    ]
+  },
+  "LOD2": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q115143866",
+    "paper_ids": [
+      "267",
+      "238",
+      "276"
+    ]
+  },
+  "EUCLID": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q20891069",
+    "paper_ids": [
+      "267"
+    ]
+  },
+  "ONR": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3738536",
+    "paper_ids": [
+      "25",
+      "52"
+    ]
+  },
+  "IBM": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q37156",
+    "paper_ids": [
+      "25",
+      "415",
+      "26",
+      "322",
+      "389",
+      "15"
+    ]
+  },
+  "Ghent University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1137665",
+    "paper_ids": [
+      "382",
+      "106",
+      "254"
+    ]
+  },
+  "Flanders Innovation & Entrepreneurship": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1667937",
+    "paper_ids": [
+      "382"
+    ]
+  },
+  "imec": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1667937",
+    "paper_ids": [
+      "382"
+    ]
+  },
+  "the European Union": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q458",
+    "paper_ids": [
+      "382",
+      "316",
+      "391",
+      "298",
+      "220",
+      "254"
+    ]
+  },
+  "the Research Foundation -": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q84596635",
+    "paper_ids": [
+      "382"
+    ]
+  },
+  "the Royal Society": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q10354104",
+    "paper_ids": [
+      "460",
+      "321",
+      "432",
+      "294",
+      "233",
+      "259"
+    ]
+  },
+  "The Alan Turing Institute": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16826821",
+    "paper_ids": [
+      "460",
+      "432"
+    ]
+  },
+  "the SIRIUS Centre for Scalable Data Access": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q56433979",
+    "paper_ids": [
+      "460",
+      "432",
+      "419",
+      "459"
+    ]
+  },
+  "the Research Council of Norway": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4356293",
+    "paper_ids": [
+      "460"
+    ]
+  },
+  "RCN": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q33127986",
+    "paper_ids": [
+      "460"
+    ]
+  },
+  "MixRisk": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q31008873",
+    "paper_ids": [
+      "460"
+    ]
+  },
+  "the Free University of Bozen-Bolzano": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1231433",
+    "paper_ids": [
+      "399",
+      "413"
+    ]
+  },
+  "the Millennium Institute for Foundational Research on Data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q110524002",
+    "paper_ids": [
+      "399",
+      "409",
+      "390",
+      "377",
+      "456",
+      "379"
+    ]
+  },
+  "IMFD": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6055596",
+    "paper_ids": [
+      "399",
+      "438",
+      "409",
+      "390",
+      "377",
+      "456",
+      "379"
+    ]
+  },
+  "the British": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6373",
+    "paper_ids": [
+      "423"
+    ]
+  },
+  "TUBITAK": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2096577",
+    "paper_ids": [
+      "423"
+    ]
+  },
+  "Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q339033",
+    "paper_ids": [
+      "423"
+    ]
+  },
+  "the Newton-Katip C\u00b8 elebi Fund": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q133872092",
+    "paper_ids": [
+      "423"
+    ]
+  },
+  "the Scienti\ufb01c and Technological Research Council of Turkey": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7027934",
+    "paper_ids": [
+      "423"
+    ]
+  },
+  "Department for Business, Energy and Industrial Strategy": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q25927629",
+    "paper_ids": [
+      "423"
+    ]
+  },
+  "ARC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q17631000",
+    "paper_ids": [
+      "441",
+      "231",
+      "193"
+    ]
+  },
+  "the Australian Research Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4824612",
+    "paper_ids": [
+      "441",
+      "231",
+      "193"
+    ]
+  },
+  "ERC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q14864329",
+    "paper_ids": [
+      "441",
+      "452",
+      "313",
+      "334",
+      "433",
+      "224"
+    ]
+  },
+  "the Millenium Institute for Foundational Research on Data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q110524002",
+    "paper_ids": [
+      "438",
+      "418"
+    ]
+  },
+  "Fondecyt Iniciaci\u00b4on Grant No": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q858188",
+    "paper_ids": [
+      "438"
+    ]
+  },
+  "the Cluster of Excellence on Multimodal Computing and Interaction": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q57691823",
+    "paper_ids": [
+      "213"
+    ]
+  },
+  "Google Inc": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q95",
+    "paper_ids": [
+      "213"
+    ]
+  },
+  "M2CI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1143156",
+    "paper_ids": [
+      "213"
+    ]
+  },
+  "the German Research Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q707283",
+    "paper_ids": [
+      "213",
+      "381",
+      "407",
+      "300",
+      "318",
+      "225",
+      "347",
+      "295",
+      "115",
+      "192",
+      "358",
+      "367",
+      "297"
+    ]
+  },
+  "DFG": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q707283",
+    "paper_ids": [
+      "213",
+      "381",
+      "407",
+      "300",
+      "428",
+      "318",
+      "225",
+      "173",
+      "209",
+      "347",
+      "364",
+      "324",
+      "295",
+      "74",
+      "192",
+      "358",
+      "367",
+      "297"
+    ]
+  },
+  "EC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q15632858",
+    "paper_ids": [
+      "288",
+      "222",
+      "134",
+      "452",
+      "191",
+      "98",
+      "51"
+    ]
+  },
+  "Air Force Research Laboratory": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3607176",
+    "paper_ids": [
+      "34",
+      "116",
+      "203",
+      "5",
+      "50",
+      "0"
+    ]
+  },
+  "the Air Force Research Laboratory": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3607176",
+    "paper_ids": [
+      "323",
+      "26",
+      "346"
+    ]
+  },
+  "the Defense Advanced Research Projects Agency": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q207361",
+    "paper_ids": [
+      "323",
+      "286",
+      "43",
+      "5",
+      "50",
+      "346",
+      "0",
+      "127"
+    ]
+  },
+  "the National Institute of General Medical Sciences": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6973666",
+    "paper_ids": [
+      "241",
+      "271"
+    ]
+  },
+  "National Library of Medicine Informatics Training Grant": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q611833",
+    "paper_ids": [
+      "241"
+    ]
+  },
+  "the National Institutes of Health Common Fund": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16932298",
+    "paper_ids": [
+      "241"
+    ]
+  },
+  "The National Center for Biomedical Ontology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q24633197",
+    "paper_ids": [
+      "241"
+    ]
+  },
+  "the National Human Genome Research Institute": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1634459",
+    "paper_ids": [
+      "241"
+    ]
+  },
+  "JMM": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q27725857",
+    "paper_ids": [
+      "241"
+    ]
+  },
+  "Optique": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2920313",
+    "paper_ids": [
+      "239",
+      "326",
+      "233",
+      "312",
+      "260"
+    ]
+  },
+  "the Seventh Framework Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q64050246",
+    "paper_ids": [
+      "239"
+    ]
+  },
+  "the European Commission": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q8882",
+    "paper_ids": [
+      "239",
+      "91",
+      "32",
+      "134",
+      "108",
+      "106",
+      "128",
+      "95",
+      "163",
+      "411",
+      "266",
+      "308",
+      "131",
+      "9",
+      "153",
+      "400",
+      "66",
+      "207",
+      "149",
+      "120",
+      "112"
+    ]
+  },
+  "PlanetData": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:WikiProject_Astronomy/List_of_planets",
+    "paper_ids": [
+      "222",
+      "207"
+    ]
+  },
+  "OBATS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:WikiProject_Aviation/List_of_Boeing_airplanes",
+    "paper_ids": [
+      "413"
+    ]
+  },
+  "EGTC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q569168",
+    "paper_ids": [
+      "413"
+    ]
+  },
+  "372  G.": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q10571632",
+    "paper_ids": [
+      "413"
+    ]
+  },
+  "KAOS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1024937",
+    "paper_ids": [
+      "413"
+    ]
+  },
+  "Emmy Noether": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q97464683",
+    "paper_ids": [
+      "381"
+    ]
+  },
+  "HAEC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q207020",
+    "paper_ids": [
+      "381",
+      "318",
+      "347",
+      "364"
+    ]
+  },
+  "DIAMOND": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q66012314",
+    "paper_ids": [
+      "381",
+      "428"
+    ]
+  },
+  "VPHShare": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q106178441",
+    "paper_ids": [
+      "204"
+    ]
+  },
+  "the DARPA/Air Force Integrated Learning Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q40701906",
+    "paper_ids": [
+      "126"
+    ]
+  },
+  "the UK Engineering and Physical Sciences Research Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5377871",
+    "paper_ids": [
+      "166",
+      "87",
+      "27",
+      "37"
+    ]
+  },
+  "EnAKTing": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q80095021",
+    "paper_ids": [
+      "166"
+    ]
+  },
+  "the British Chapter": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q24911991",
+    "paper_ids": [
+      "166"
+    ]
+  },
+  "ISKO": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Property:P10784",
+    "paper_ids": [
+      "166"
+    ]
+  },
+  "RDF Next Steps": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:RDF",
+    "paper_ids": [
+      "159"
+    ]
+  },
+  "Microsoft Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1144725",
+    "paper_ids": [
+      "253"
+    ]
+  },
+  "AFOSR": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q45136877",
+    "paper_ids": [
+      "253",
+      "70"
+    ]
+  },
+  "AGINFRA+": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q28608639",
+    "paper_ids": [
+      "338"
+    ]
+  },
+  "T\u00b4el\u00b4ecom ParisTech": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2311820",
+    "paper_ids": [
+      "338"
+    ]
+  },
+  "National Key Basic Research and Development Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:List_of_properties/all_in_one_table",
+    "paper_ids": [
+      "89"
+    ]
+  },
+  "Hwa-Ying Culture and Education Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q34516766",
+    "paper_ids": [
+      "89"
+    ]
+  },
+  "Ministry of Education of China": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1042167",
+    "paper_ids": [
+      "89"
+    ]
+  },
+  "Quinary": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q263994",
+    "paper_ids": [
+      "91"
+    ]
+  },
+  "Kom": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2751387",
+    "paper_ids": [
+      "91",
+      "51"
+    ]
+  },
+  "Dot.": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q172008",
+    "paper_ids": [
+      "91"
+    ]
+  },
+  "the University of Karlsruhe": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q29426438",
+    "paper_ids": [
+      "91"
+    ]
+  },
+  "Ontoprise": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7095070",
+    "paper_ids": [
+      "91"
+    ]
+  },
+  "the Open University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2413375",
+    "paper_ids": [
+      "91",
+      "87",
+      "37"
+    ]
+  },
+  "the University of Sheffield": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q823917",
+    "paper_ids": [
+      "91"
+    ]
+  },
+  "ITC-Irst": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3788879",
+    "paper_ids": [
+      "91"
+    ]
+  },
+  "HIM": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q23479",
+    "paper_ids": [
+      "174"
+    ]
+  },
+  "WHO": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "174",
+      "281"
+    ]
+  },
+  "TAG": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Property:P305",
+    "paper_ids": [
+      "174"
+    ]
+  },
+  "NLM": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q611833",
+    "paper_ids": [
+      "174",
+      "181"
+    ]
+  },
+  "RSG": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q38511",
+    "paper_ids": [
+      "174",
+      "281"
+    ]
+  },
+  "PASOA": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q632306",
+    "paper_ids": [
+      "83"
+    ]
+  },
+  "European Union": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q458",
+    "paper_ids": [
+      "99",
+      "156",
+      "431"
+    ]
+  },
+  "the Royal Institute of Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q854280",
+    "paper_ids": [
+      "99"
+    ]
+  },
+  "Aperture": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6434802",
+    "paper_ids": [
+      "99"
+    ]
+  },
+  "NEPOMUK": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q842929",
+    "paper_ids": [
+      "99",
+      "117"
+    ]
+  },
+  "KTH": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q854280",
+    "paper_ids": [
+      "99"
+    ]
+  },
+  "SoRa": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q125700117",
+    "paper_ids": [
+      "407"
+    ]
+  },
+  "Sozial-Raumwissenschaftliche Forschungsdateninfrastruktur (": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q105757481",
+    "paper_ids": [
+      "407"
+    ]
+  },
+  "KG": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11570",
+    "paper_ids": [
+      "407"
+    ]
+  },
+  "the ADAPT Centre for Digital Content Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q96332428",
+    "paper_ids": [
+      "451",
+      "421",
+      "442"
+    ]
+  },
+  "the Fraunhofer Cluster of Excellence": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1451977",
+    "paper_ids": [
+      "451",
+      "431"
+    ]
+  },
+  "the SFI Research Centres Programme": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1438124",
+    "paper_ids": [
+      "451",
+      "421",
+      "354",
+      "442"
+    ]
+  },
+  "the European Regional Development Fund": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1361297",
+    "paper_ids": [
+      "451",
+      "421",
+      "354",
+      "442"
+    ]
+  },
+  "the US Army Research O\ufb03ce": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q38808347",
+    "paper_ids": [
+      "264"
+    ]
+  },
+  "Ontotext": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7095072",
+    "paper_ids": [
+      "264"
+    ]
+  },
+  "WDAqua": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q85085775",
+    "paper_ids": [
+      "405",
+      "371",
+      "374",
+      "416"
+    ]
+  },
+  "HOBBIT": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q74287",
+    "paper_ids": [
+      "405",
+      "371",
+      "315",
+      "343",
+      "406"
+    ]
+  },
+  "ITN": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q121083667",
+    "paper_ids": [
+      "405"
+    ]
+  },
+  "DSTC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5206195",
+    "paper_ids": [
+      "62"
+    ]
+  },
+  "CRC Programme": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q421045",
+    "paper_ids": [
+      "62"
+    ]
+  },
+  "the Centre for Microscopy and Microanalysis": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q35935799",
+    "paper_ids": [
+      "62"
+    ]
+  },
+  "Department of Education, Science and Training": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "62"
+    ]
+  },
+  "the University of Queensland": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q866012",
+    "paper_ids": [
+      "62"
+    ]
+  },
+  "the Australian Federal Government's": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2991162",
+    "paper_ids": [
+      "62"
+    ]
+  },
+  "the Co-operative Research Centre for Enterprise Distributed Systems Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:WikiCite/Wikidata_lists/Famous_people_with_unidentified_co-authors",
+    "paper_ids": [
+      "62"
+    ]
+  },
+  "SB": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4201465",
+    "paper_ids": [
+      "60"
+    ]
+  },
+  "Genome Canada/Genome Prairie": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q30284409",
+    "paper_ids": [
+      "60"
+    ]
+  },
+  "LS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1304101",
+    "paper_ids": [
+      "60"
+    ]
+  },
+  "DG": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16926771",
+    "paper_ids": [
+      "60"
+    ]
+  },
+  "L.S. and D.G.": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q834105",
+    "paper_ids": [
+      "60"
+    ]
+  },
+  "GS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "60"
+    ]
+  },
+  "the National Research Council Canada": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1437507",
+    "paper_ids": [
+      "60"
+    ]
+  },
+  "National Science Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q304878",
+    "paper_ids": [
+      "60",
+      "261",
+      "68",
+      "245"
+    ]
+  },
+  "MOBYServices": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q35130317",
+    "paper_ids": [
+      "60"
+    ]
+  },
+  "PL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Introduction/pl",
+    "paper_ids": [
+      "60"
+    ]
+  },
+  "MOBY-Services": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/query_optimization",
+    "paper_ids": [
+      "60"
+    ]
+  },
+  "DH": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q727270",
+    "paper_ids": [
+      "60"
+    ]
+  },
+  "Semantic-MOBY": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q105359170",
+    "paper_ids": [
+      "60"
+    ]
+  },
+  "NWO": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q129724",
+    "paper_ids": [
+      "36",
+      "401",
+      "143",
+      "360",
+      "453",
+      "458",
+      "56",
+      "393"
+    ]
+  },
+  "HOPS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3214940",
+    "paper_ids": [
+      "36"
+    ]
+  },
+  "NSFCANR": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q18205057",
+    "paper_ids": [
+      "305"
+    ]
+  },
+  "Tsinghua university": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16955",
+    "paper_ids": [
+      "305"
+    ]
+  },
+  "Specify": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Help:Qualifiers",
+    "paper_ids": [
+      "261"
+    ]
+  },
+  "SCIDIP-ES": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q114008884",
+    "paper_ids": [
+      "216"
+    ]
+  },
+  "FORTHICS-ISL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries",
+    "paper_ids": [
+      "216"
+    ]
+  },
+  "FP7 Research Infrastructures": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q120669027",
+    "paper_ids": [
+      "216"
+    ]
+  },
+  "Science Foundation Ireland": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3475731",
+    "paper_ids": [
+      "187",
+      "141",
+      "322",
+      "304",
+      "117",
+      "180"
+    ]
+  },
+  "the Los Angeles Department of Water and Power": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3259704",
+    "paper_ids": [
+      "195"
+    ]
+  },
+  "the Department of Energy": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q678661",
+    "paper_ids": [
+      "195"
+    ]
+  },
+  "the LA DWP": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3259704",
+    "paper_ids": [
+      "195"
+    ]
+  },
+  "the United States Government": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q48525",
+    "paper_ids": [
+      "195"
+    ]
+  },
+  "Springer Nature": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q21096327",
+    "paper_ids": [
+      "328",
+      "387"
+    ]
+  },
+  "IBM Research AI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1474431",
+    "paper_ids": [
+      "450",
+      "389",
+      "457"
+    ]
+  },
+  "the AI Horizons Network": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q98190696",
+    "paper_ids": [
+      "450",
+      "389",
+      "457"
+    ]
+  },
+  "AudioCommons": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q106833",
+    "paper_ids": [
+      "394",
+      "369"
+    ]
+  },
+  "the UK Economic & Social Research Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q8134",
+    "paper_ids": [
+      "202"
+    ]
+  },
+  "ESRC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q61660883",
+    "paper_ids": [
+      "202"
+    ]
+  },
+  "2017YFB0803301": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q48201839",
+    "paper_ids": [
+      "436"
+    ]
+  },
+  "Research and Innovation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q12792240",
+    "paper_ids": [
+      "429"
+    ]
+  },
+  "TU Eindhoven": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Wiki-wetenschappers/Technische_Universiteit_Eindhoven",
+    "paper_ids": [
+      "108"
+    ]
+  },
+  "UvA Amsterdam": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q214341",
+    "paper_ids": [
+      "108"
+    ]
+  },
+  "VU University Amsterdam": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1065414",
+    "paper_ids": [
+      "108"
+    ]
+  },
+  "MultimediaN": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q133832930",
+    "paper_ids": [
+      "108",
+      "121"
+    ]
+  },
+  "CWI Amsterdam": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1054410",
+    "paper_ids": [
+      "108"
+    ]
+  },
+  "the Dutch Government": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4310949",
+    "paper_ids": [
+      "108"
+    ]
+  },
+  "the Fraunhofer-Cluster of Excellence": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q695286",
+    "paper_ids": [
+      "440",
+      "430"
+    ]
+  },
+  "CCIT": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q10927357",
+    "paper_ids": [
+      "440",
+      "430",
+      "431"
+    ]
+  },
+  "the United States Air Force": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11223",
+    "paper_ids": [
+      "286",
+      "47"
+    ]
+  },
+  "the EU H2020 Framework Programme": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q13583472",
+    "paper_ids": [
+      "315"
+    ]
+  },
+  "Tangram": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q245336",
+    "paper_ids": [
+      "116"
+    ]
+  },
+  "ESA-ESRIN": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q175492",
+    "paper_ids": [
+      "104"
+    ]
+  },
+  "OntoGrid": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q62045009",
+    "paper_ids": [
+      "104"
+    ]
+  },
+  "ESA": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q42262",
+    "paper_ids": [
+      "104"
+    ]
+  },
+  "ESA-ESTEC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1378217",
+    "paper_ids": [
+      "104"
+    ]
+  },
+  "European Space Agency": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q42262",
+    "paper_ids": [
+      "104"
+    ]
+  },
+  "COMMIT": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q72699924",
+    "paper_ids": [
+      "236",
+      "295",
+      "258"
+    ]
+  },
+  "Data2Semantics": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "236"
+    ]
+  },
+  "Shanghai Sailing Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q69461996",
+    "paper_ids": [
+      "414"
+    ]
+  },
+  "SJTU": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q525169",
+    "paper_ids": [
+      "414"
+    ]
+  },
+  "the National Institute of Allergy and Infectious Diseases": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3519875",
+    "paper_ids": [
+      "352"
+    ]
+  },
+  "the NIH Common Fund": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16932298",
+    "paper_ids": [
+      "352"
+    ]
+  },
+  "CEDAR": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q120201573",
+    "paper_ids": [
+      "352"
+    ]
+  },
+  "NCBO": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Property:P685",
+    "paper_ids": [
+      "352",
+      "273",
+      "265"
+    ]
+  },
+  "Mangrove": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q112783854",
+    "paper_ids": [
+      "22"
+    ]
+  },
+  "NWO VENI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q57215202",
+    "paper_ids": [
+      "320"
+    ]
+  },
+  "the Department of Computer Science": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5260200",
+    "paper_ids": [
+      "415"
+    ]
+  },
+  "Sapienza University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q209344",
+    "paper_ids": [
+      "415"
+    ]
+  },
+  "the IST Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q21554828",
+    "paper_ids": [
+      "26"
+    ]
+  },
+  "DAML": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q44600607",
+    "paper_ids": [
+      "26"
+    ]
+  },
+  "the Defense Advanced Research Project Agency": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q207361",
+    "paper_ids": [
+      "26"
+    ]
+  },
+  "Symbol": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q694745",
+    "paper_ids": [
+      "26"
+    ]
+  },
+  "Boeing": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q66",
+    "paper_ids": [
+      "26"
+    ]
+  },
+  "The US Government": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q48525",
+    "paper_ids": [
+      "26"
+    ]
+  },
+  "Fujitsu": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q186394",
+    "paper_ids": [
+      "26"
+    ]
+  },
+  "HP": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q80978",
+    "paper_ids": [
+      "26"
+    ]
+  },
+  "Amazon": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3884",
+    "paper_ids": [
+      "26"
+    ]
+  },
+  "the Institute AIFB": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q30309204",
+    "paper_ids": [
+      "14"
+    ]
+  },
+  "University of Karlsruhe": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q29426438",
+    "paper_ids": [
+      "14"
+    ]
+  },
+  "Ontoprise GmbH": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7095070",
+    "paper_ids": [
+      "14"
+    ]
+  },
+  "the ICT Collaborative Project": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q89527205",
+    "paper_ids": [
+      "229"
+    ]
+  },
+  "Yahoo! Search": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2308171",
+    "paper_ids": [
+      "269"
+    ]
+  },
+  "Elsevier": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q746413",
+    "paper_ids": [
+      "401"
+    ]
+  },
+  "Amsterdam Data Science": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "401"
+    ]
+  },
+  "the Netherlands Organisation for Scienti\ufb01c Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q129724",
+    "paper_ids": [
+      "401"
+    ]
+  },
+  "The Europe Center": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q836625",
+    "paper_ids": [
+      "401"
+    ]
+  },
+  "the China Scholarship Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5099895",
+    "paper_ids": [
+      "401"
+    ]
+  },
+  "Yandex": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5281",
+    "paper_ids": [
+      "401"
+    ]
+  },
+  "Bloomberg Research Grant": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q133802817",
+    "paper_ids": [
+      "401"
+    ]
+  },
+  "the Netherlands Institute for Sound and Vision": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1131877",
+    "paper_ids": [
+      "401"
+    ]
+  },
+  "Ahold Delhaize": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q20539261",
+    "paper_ids": [
+      "401"
+    ]
+  },
+  "Microsoft Research Ph.D.": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1144725",
+    "paper_ids": [
+      "401"
+    ]
+  },
+  "Ministry of Transport, Innovation and Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q24255995",
+    "paper_ids": [
+      "401"
+    ]
+  },
+  "the European Community\u2019s": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q100231013",
+    "paper_ids": [
+      "401",
+      "238",
+      "218"
+    ]
+  },
+  "the Swiss National Science Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q471732",
+    "paper_ids": [
+      "293",
+      "257",
+      "336"
+    ]
+  },
+  "the Oxford Supercomputing Centre": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q872555",
+    "paper_ids": [
+      "189",
+      "192"
+    ]
+  },
+  "DHS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11231",
+    "paper_ids": [
+      "113"
+    ]
+  },
+  "Kyoto": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11375008",
+    "paper_ids": [
+      "38"
+    ]
+  },
+  "NTT Comware Corporation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6955510",
+    "paper_ids": [
+      "38"
+    ]
+  },
+  "BmBF": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q22075020",
+    "paper_ids": [
+      "425"
+    ]
+  },
+  "MLwin": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6716702",
+    "paper_ids": [
+      "425"
+    ]
+  },
+  "KAUST": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1463036",
+    "paper_ids": [
+      "425"
+    ]
+  },
+  "Center for Perspicuous Systems": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q35135368",
+    "paper_ids": [
+      "428"
+    ]
+  },
+  "ISX Corporation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q28690206",
+    "paper_ids": [
+      "43"
+    ]
+  },
+  "the US National Institutes of Health": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q390551",
+    "paper_ids": [
+      "281",
+      "363"
+    ]
+  },
+  "HIM-TAG": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "281"
+    ]
+  },
+  "the Science Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4501917",
+    "paper_ids": [
+      "118",
+      "220"
+    ]
+  },
+  "SemanticGov": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q113989602",
+    "paper_ids": [
+      "118"
+    ]
+  },
+  "TECSAN": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q57867074",
+    "paper_ids": [
+      "190"
+    ]
+  },
+  "the French National Agency of research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q280413",
+    "paper_ids": [
+      "190"
+    ]
+  },
+  "SFI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q83495",
+    "paper_ids": [
+      "322",
+      "304",
+      "132"
+    ]
+  },
+  "Dell": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q12042914",
+    "paper_ids": [
+      "322"
+    ]
+  },
+  "Taibah University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7675882",
+    "paper_ids": [
+      "227"
+    ]
+  },
+  "Tianjin Thousand Young Talents Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q25345281",
+    "paper_ids": [
+      "314"
+    ]
+  },
+  "GERBIL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q388874",
+    "paper_ids": [
+      "409"
+    ]
+  },
+  "CONICYT-PCHA": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2985226",
+    "paper_ids": [
+      "409"
+    ]
+  },
+  "Aibel": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6272409",
+    "paper_ids": [
+      "412"
+    ]
+  },
+  "Norwegian Research Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4356293",
+    "paper_ids": [
+      "412",
+      "422"
+    ]
+  },
+  "FCT": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q112080337",
+    "paper_ids": [
+      "278",
+      "280"
+    ]
+  },
+  "IFC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q656801",
+    "paper_ids": [
+      "278"
+    ]
+  },
+  "DF": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q119158",
+    "paper_ids": [
+      "278"
+    ]
+  },
+  "LASIGE": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6460851",
+    "paper_ids": [
+      "278"
+    ]
+  },
+  "University of Illinois Scholar Award": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q131252",
+    "paper_ids": [
+      "278"
+    ]
+  },
+  "the UK Joint Information Services Committee": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2059360",
+    "paper_ids": [
+      "53",
+      "71"
+    ]
+  },
+  "the US National Cancer Institute": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q664846",
+    "paper_ids": [
+      "53",
+      "64"
+    ]
+  },
+  "the National Library of Medicine": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q611833",
+    "paper_ids": [
+      "53",
+      "181"
+    ]
+  },
+  "WWTF": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7957480",
+    "paper_ids": [
+      "452"
+    ]
+  },
+  "TripCom": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q18345164",
+    "paper_ids": [
+      "105"
+    ]
+  },
+  "VALCRI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q55636853",
+    "paper_ids": [
+      "326",
+      "376"
+    ]
+  },
+  "LaSIGE": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6460851",
+    "paper_ids": [
+      "326"
+    ]
+  },
+  "SeRC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "326",
+      "376"
+    ]
+  },
+  "KnowledgeWeb": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q22912280",
+    "paper_ids": [
+      "109",
+      "117",
+      "42",
+      "88"
+    ]
+  },
+  "LarKC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q104438299",
+    "paper_ids": [
+      "109",
+      "205"
+    ]
+  },
+  "the Ministry of Education and Science": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2625105",
+    "paper_ids": [
+      "274"
+    ]
+  },
+  "the Federal Framework Program \u2013": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q113049448",
+    "paper_ids": [
+      "274"
+    ]
+  },
+  "the Russian Foundation for Basic Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q96726519",
+    "paper_ids": [
+      "274"
+    ]
+  },
+  "Kazan Federal University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q113788",
+    "paper_ids": [
+      "274"
+    ]
+  },
+  "BBC SoundIndex": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q57416399",
+    "paper_ids": [
+      "124"
+    ]
+  },
+  "the Austrian Federal Ministry of Transport, Innovation, and Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q24255995",
+    "paper_ids": [
+      "139"
+    ]
+  },
+  "FIT": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q840121",
+    "paper_ids": [
+      "139"
+    ]
+  },
+  "Pinterest": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q255381",
+    "paper_ids": [
+      "443"
+    ]
+  },
+  "NIH": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6973666",
+    "paper_ids": [
+      "443",
+      "165",
+      "181",
+      "279"
+    ]
+  },
+  "NIGMS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6973666",
+    "paper_ids": [
+      "443",
+      "279"
+    ]
+  },
+  "European Research Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1377836",
+    "paper_ids": [
+      "179",
+      "313"
+    ]
+  },
+  "SKELETOME": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "231",
+      "193"
+    ]
+  },
+  "CASPAR": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7401079",
+    "paper_ids": [
+      "135"
+    ]
+  },
+  "the Ministerio de Econom\u00b4\u0131a y Competitividad": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q27703163",
+    "paper_ids": [
+      "303"
+    ]
+  },
+  "Sapienza": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q209344",
+    "paper_ids": [
+      "303"
+    ]
+  },
+  "AFP": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q54899033",
+    "paper_ids": [
+      "106"
+    ]
+  },
+  "IBBT Multimedia Lab": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4781197",
+    "paper_ids": [
+      "106"
+    ]
+  },
+  "eMERGE": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q115025043",
+    "paper_ids": [
+      "185"
+    ]
+  },
+  "the Computing Research Association for the CIFellows Project": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5157638",
+    "paper_ids": [
+      "185"
+    ]
+  },
+  "ONC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q27896336",
+    "paper_ids": [
+      "185"
+    ]
+  },
+  "Mayo Clinic": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q63571617",
+    "paper_ids": [
+      "185"
+    ]
+  },
+  "AFAP": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q40634981",
+    "paper_ids": [
+      "408"
+    ]
+  },
+  "i-VISION": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q41432035",
+    "paper_ids": [
+      "408"
+    ]
+  },
+  "Carnegie Mellon University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q190080",
+    "paper_ids": [
+      "203",
+      "5",
+      "0"
+    ]
+  },
+  "Defense Advanced Research Projects Agency": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q207361",
+    "paper_ids": [
+      "203",
+      "330"
+    ]
+  },
+  "IBM Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3146518",
+    "paper_ids": [
+      "203",
+      "457"
+    ]
+  },
+  "NewMIC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6770697",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "the Open Learning Agency": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7096108",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "POOL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q26707997",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "The NewMedia Innovation Centre": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q97703807",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "New Bunswick Distance Education Network": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4039154",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "Simon Fraser University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q201603",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "the Technical University of British Columbia": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q391028",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "The Electronic Text Centre at University of New Brunswick": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1112515",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "TechBC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q107785714",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "TeleLearning Network of Centres of Excellence": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q106643134",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "the Canarie Inc. Learning Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q178959",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "TelesTraining Inc": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7696888",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "Centre for Curriculum, Transfer and Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q52085401",
+    "paper_ids": [
+      "4"
+    ]
+  },
+  "the Swedish e-Science Research Centre": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q108737269",
+    "paper_ids": [
+      "376"
+    ]
+  },
+  "Aalborg University\u2019s": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q601956",
+    "paper_ids": [
+      "420",
+      "395",
+      "437"
+    ]
+  },
+  "DFF": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5259723",
+    "paper_ids": [
+      "420",
+      "395",
+      "437",
+      "332"
+    ]
+  },
+  "the Danish Council for Independent Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q45136554",
+    "paper_ids": [
+      "420",
+      "395",
+      "437",
+      "332"
+    ]
+  },
+  "Talent Programme": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "420",
+      "437"
+    ]
+  },
+  "the Federal Ministry of Education and Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q606227",
+    "paper_ids": [
+      "446"
+    ]
+  },
+  "SLIPO": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q97612276",
+    "paper_ids": [
+      "421"
+    ]
+  },
+  "Ontotext AD": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q58425577",
+    "paper_ids": [
+      "197"
+    ]
+  },
+  "ASUS Italia": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q126737348",
+    "paper_ids": [
+      "251"
+    ]
+  },
+  "CollabCloud": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "167"
+    ]
+  },
+  "AgID": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Property:P8880",
+    "paper_ids": [
+      "325"
+    ]
+  },
+  "IVALSA Department": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q113515713",
+    "paper_ids": [
+      "325"
+    ]
+  },
+  "SEALS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q59632502",
+    "paper_ids": [
+      "184"
+    ]
+  },
+  "Royal Society University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q28857542",
+    "paper_ids": [
+      "184"
+    ]
+  },
+  "MeMAD": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q77327007",
+    "paper_ids": [
+      "388",
+      "458"
+    ]
+  },
+  "NexGen": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q107095686",
+    "paper_ids": [
+      "388"
+    ]
+  },
+  "the French National Research Agency": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q392500",
+    "paper_ids": [
+      "388",
+      "221",
+      "383"
+    ]
+  },
+  "the French Fonds Unique Interminist\u00b4eriel": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q131342129",
+    "paper_ids": [
+      "388"
+    ]
+  },
+  "FUI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q123515409",
+    "paper_ids": [
+      "388"
+    ]
+  },
+  "ASRAEL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3069479",
+    "paper_ids": [
+      "388"
+    ]
+  },
+  "The U.S. Government": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q48525",
+    "paper_ids": [
+      "330"
+    ]
+  },
+  "the German Federal Ministry of Education and Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q492234",
+    "paper_ids": [
+      "424",
+      "138"
+    ]
+  },
+  "the FraunhoferCluster of Excellence": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q48975698",
+    "paper_ids": [
+      "424"
+    ]
+  },
+  "CO": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "71"
+    ]
+  },
+  "Stanford Medical Informatics": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q85720056",
+    "paper_ids": [
+      "71"
+    ]
+  },
+  "Manchester": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q18656",
+    "paper_ids": [
+      "71"
+    ]
+  },
+  "the HyOntUse Project": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q104962",
+    "paper_ids": [
+      "71"
+    ]
+  },
+  "the National Cancer Institute": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q664846",
+    "paper_ids": [
+      "71"
+    ]
+  },
+  "the UK Engineering and Physical Science Research Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5377871",
+    "paper_ids": [
+      "71"
+    ]
+  },
+  "21XS067A": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "71"
+    ]
+  },
+  "ODE": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:WikiProject_sum_of_all_paintings/Collection/Art_Museum_of_Estonia",
+    "paper_ids": [
+      "71"
+    ]
+  },
+  "Microsoft Research Asia": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6840202",
+    "paper_ids": [
+      "248"
+    ]
+  },
+  "University of Queensland": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q866012",
+    "paper_ids": [
+      "248"
+    ]
+  },
+  "the Andrew W. Mellon Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4758812",
+    "paper_ids": [
+      "248",
+      "333"
+    ]
+  },
+  "e-Heritage": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:WikiProject_Heritage_Collections",
+    "paper_ids": [
+      "248"
+    ]
+  },
+  "W3C.": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q37033",
+    "paper_ids": [
+      "1"
+    ]
+  },
+  "BMWI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q26678",
+    "paper_ids": [
+      "343",
+      "375"
+    ]
+  },
+  "SAKE": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q52745920",
+    "paper_ids": [
+      "343",
+      "375"
+    ]
+  },
+  "Universidad Polit\u00b4ecnica de Madrid": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q25864",
+    "paper_ids": [
+      "191",
+      "262"
+    ]
+  },
+  "DynaLearn": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q60702675",
+    "paper_ids": [
+      "191"
+    ]
+  },
+  "the Brazilian National Council for Scienti\ufb01c and Technological Development": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2994429",
+    "paper_ids": [
+      "455"
+    ]
+  },
+  "LIMBO": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2248238",
+    "paper_ids": [
+      "455",
+      "454",
+      "444"
+    ]
+  },
+  "BMVI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q491637",
+    "paper_ids": [
+      "455",
+      "454"
+    ]
+  },
+  "OPAL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q59235487",
+    "paper_ids": [
+      "455",
+      "454",
+      "444"
+    ]
+  },
+  "Federal Ministry of Transport and Digital Infrastructure": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q491637",
+    "paper_ids": [
+      "455"
+    ]
+  },
+  "the Netherlands": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q29999",
+    "paper_ids": [
+      "143",
+      "393"
+    ]
+  },
+  "Organisation for Scienti\ufb01c Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1867222",
+    "paper_ids": [
+      "143"
+    ]
+  },
+  "the Government of Catalonia": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3112544",
+    "paper_ids": [
+      "427"
+    ]
+  },
+  "the Industrial Doctorate Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q132568414",
+    "paper_ids": [
+      "427"
+    ]
+  },
+  "DBpedia": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q465",
+    "paper_ids": [
+      "434"
+    ]
+  },
+  "WMF": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q451423",
+    "paper_ids": [
+      "434"
+    ]
+  },
+  "CAREER": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q20054355",
+    "paper_ids": [
+      "243",
+      "52"
+    ]
+  },
+  "the Transregional Collaborative Research Centre": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2300983",
+    "paper_ids": [
+      "225"
+    ]
+  },
+  "Bitmanufaktur": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q10571632",
+    "paper_ids": [
+      "128"
+    ]
+  },
+  "Future and Emerging Technologies": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2667876",
+    "paper_ids": [
+      "128",
+      "95"
+    ]
+  },
+  "SocioPatterns.org": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q117344942",
+    "paper_ids": [
+      "128"
+    ]
+  },
+  "TAGora": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1502075",
+    "paper_ids": [
+      "128",
+      "95",
+      "112"
+    ]
+  },
+  "STI Int.": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1957169",
+    "paper_ids": [
+      "128"
+    ]
+  },
+  "Commission": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q8880",
+    "paper_ids": [
+      "128",
+      "95"
+    ]
+  },
+  "the National Center for Biomedical Ontology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q24633197",
+    "paper_ids": [
+      "110",
+      "237",
+      "273",
+      "148",
+      "158"
+    ]
+  },
+  "the National Institutes of Health": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q390551",
+    "paper_ids": [
+      "110",
+      "237",
+      "273",
+      "181",
+      "349",
+      "148",
+      "158",
+      "265"
+    ]
+  },
+  "The American Art Collaborative": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q46092234",
+    "paper_ids": [
+      "333"
+    ]
+  },
+  "USC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1024426",
+    "paper_ids": [
+      "333"
+    ]
+  },
+  "AAC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4649841",
+    "paper_ids": [
+      "333"
+    ]
+  },
+  "the Institute of Museum and Library Services": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6040649",
+    "paper_ids": [
+      "333"
+    ]
+  },
+  "Mecesup": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6087549",
+    "paper_ids": [
+      "119"
+    ]
+  },
+  "RPI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q49211",
+    "paper_ids": [
+      "389",
+      "457"
+    ]
+  },
+  "the International Visegrad Fund": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11783874",
+    "paper_ids": [
+      "230"
+    ]
+  },
+  "ProgrammableWeb.com": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q113236815",
+    "paper_ids": [
+      "230"
+    ]
+  },
+  "the Finnish Cultural Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11894859",
+    "paper_ids": [
+      "337"
+    ]
+  },
+  "the Finnish Ministry of Education and Culture": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3315253",
+    "paper_ids": [
+      "337"
+    ]
+  },
+  "the Open Science and Research Initiative": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q114953702",
+    "paper_ids": [
+      "337"
+    ]
+  },
+  "the Academy of Finland": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q414422",
+    "paper_ids": [
+      "337"
+    ]
+  },
+  "the DARPA Agent Markup  Language Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1151701",
+    "paper_ids": [
+      "81"
+    ]
+  },
+  "Talent Management Programme": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q113346022",
+    "paper_ids": [
+      "395"
+    ]
+  },
+  "Research Council of Norway": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4356293",
+    "paper_ids": [
+      "432"
+    ]
+  },
+  "the Six Talent Peaks Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q78825823",
+    "paper_ids": [
+      "422"
+    ]
+  },
+  "the SIRIUS Centre": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q56433979",
+    "paper_ids": [
+      "422"
+    ]
+  },
+  "the National Key R&D Program of China": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Book_sources",
+    "paper_ids": [
+      "422",
+      "439"
+    ]
+  },
+  "ROBUST": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q71218041",
+    "paper_ids": [
+      "228"
+    ]
+  },
+  "Oxford University Press, Inc.": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q217595",
+    "paper_ids": [
+      "193"
+    ]
+  },
+  "W3C Brasil": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Database_download/pt-br",
+    "paper_ids": [
+      "331"
+    ]
+  },
+  "Trentino Open Data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q97125207",
+    "paper_ids": [
+      "219"
+    ]
+  },
+  "the Omani National Program for Graduate Studies": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2983850",
+    "paper_ids": [
+      "329"
+    ]
+  },
+  "Nagaoka University of Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3114304",
+    "paper_ids": [
+      "21"
+    ]
+  },
+  "ConDOR": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4230531",
+    "paper_ids": [
+      "200"
+    ]
+  },
+  "MultiMedian": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q133832930",
+    "paper_ids": [
+      "84"
+    ]
+  },
+  "STARS4ALL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q130013879",
+    "paper_ids": [
+      "411"
+    ]
+  },
+  "Science Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4501917",
+    "paper_ids": [
+      "266"
+    ]
+  },
+  "the French": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q150",
+    "paper_ids": [
+      "403"
+    ]
+  },
+  "Palse Impulsion": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q203450",
+    "paper_ids": [
+      "403"
+    ]
+  },
+  "ARC6": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q17631000",
+    "paper_ids": [
+      "403"
+    ]
+  },
+  "Program Investissement d\u2019Avenir": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q92430485",
+    "paper_ids": [
+      "403"
+    ]
+  },
+  "UDL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3551621",
+    "paper_ids": [
+      "403"
+    ]
+  },
+  "the LabEx PERSYVAL-Lab": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q33122106",
+    "paper_ids": [
+      "403"
+    ]
+  },
+  "the Los Angeles Basin Clinical and Translational Science Institute": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q104562424",
+    "paper_ids": [
+      "165"
+    ]
+  },
+  "the Biomedical Informatics Research Network": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q795997",
+    "paper_ids": [
+      "165"
+    ]
+  },
+  "SPARQL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service",
+    "paper_ids": [
+      "173"
+    ]
+  },
+  "Task Computing": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7687347",
+    "paper_ids": [
+      "28"
+    ]
+  },
+  "A*STAR Home": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1621916",
+    "paper_ids": [
+      "214"
+    ]
+  },
+  "SERC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "214"
+    ]
+  },
+  "Peacehaven nursing": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q50561161",
+    "paper_ids": [
+      "214"
+    ]
+  },
+  "Racer Systems": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "214"
+    ]
+  },
+  "AGFA Healthcare Belgium": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q30263995",
+    "paper_ids": [
+      "214"
+    ]
+  },
+  "Euler": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q82435",
+    "paper_ids": [
+      "214"
+    ]
+  },
+  "AMUPADH": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q48975703",
+    "paper_ids": [
+      "214"
+    ]
+  },
+  "CNRS ModCo": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q280413",
+    "paper_ids": [
+      "214"
+    ]
+  },
+  "IRC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Contribute",
+    "paper_ids": [
+      "87"
+    ]
+  },
+  "the Advanced Knowledge Technologies": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "87"
+    ]
+  },
+  "Southampton": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q25173",
+    "paper_ids": [
+      "87"
+    ]
+  },
+  "the AKT IRC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q29617465",
+    "paper_ids": [
+      "87",
+      "37"
+    ]
+  },
+  "Aberdeen": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q17775118",
+    "paper_ids": [
+      "87",
+      "27",
+      "37"
+    ]
+  },
+  "AKT": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q129482866",
+    "paper_ids": [
+      "87",
+      "27",
+      "37"
+    ]
+  },
+  "The AKT IRC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q29617465",
+    "paper_ids": [
+      "87",
+      "27",
+      "37"
+    ]
+  },
+  "CLARIAH": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q120245593",
+    "paper_ids": [
+      "360",
+      "453",
+      "458"
+    ]
+  },
+  "the Dutch Science Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q59782451",
+    "paper_ids": [
+      "360",
+      "453",
+      "458"
+    ]
+  },
+  "4store": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q29981675",
+    "paper_ids": [
+      "263"
+    ]
+  },
+  "BMB+F": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q23755544",
+    "paper_ids": [
+      "77"
+    ]
+  },
+  "German Ministry of Education and Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q492234",
+    "paper_ids": [
+      "77"
+    ]
+  },
+  "Future Internet \u2013": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q28807371",
+    "paper_ids": [
+      "172"
+    ]
+  },
+  "the Italian Ministry of University and Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1307461",
+    "paper_ids": [
+      "172"
+    ]
+  },
+  "Fondazione Bruno Kessler": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3747148",
+    "paper_ids": [
+      "172"
+    ]
+  },
+  "ITCH": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q199602",
+    "paper_ids": [
+      "172"
+    ]
+  },
+  "Copilosk": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q118676216",
+    "paper_ids": [
+      "172"
+    ]
+  },
+  "the Information Technology Center": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11524687",
+    "paper_ids": [
+      "172"
+    ]
+  },
+  "The ADAPT Centre for Digital Content Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q96332428",
+    "paper_ids": [
+      "354"
+    ]
+  },
+  "European Unions": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q185441",
+    "paper_ids": [
+      "291"
+    ]
+  },
+  "ALIGNED": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q82675417",
+    "paper_ids": [
+      "291"
+    ]
+  },
+  "Concurrent Technologies Corporation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5159103",
+    "paper_ids": [
+      "146"
+    ]
+  },
+  "the Defense Logistics Agency": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q843327",
+    "paper_ids": [
+      "146"
+    ]
+  },
+  "the Defense Supply Center": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5251423",
+    "paper_ids": [
+      "146"
+    ]
+  },
+  "the Electronic Commerce Code Management Association": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5358225",
+    "paper_ids": [
+      "146"
+    ]
+  },
+  "APOLLONIS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4780401",
+    "paper_ids": [
+      "391"
+    ]
+  },
+  "European Regional Development Fund": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1361297",
+    "paper_ids": [
+      "391"
+    ]
+  },
+  "Energy@Home": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1810797",
+    "paper_ids": [
+      "285"
+    ]
+  },
+  "the Yahoo! Faculty Research Engagement Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q87212253",
+    "paper_ids": [
+      "205"
+    ]
+  },
+  "the Wright State University Research Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2002085",
+    "paper_ids": [
+      "155"
+    ]
+  },
+  "the  Air  Force": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11223",
+    "paper_ids": [
+      "47"
+    ]
+  },
+  "the United States National Institute of Health": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q390551",
+    "paper_ids": [
+      "271"
+    ]
+  },
+  "Fujitsu Laboratory of America": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11456248",
+    "paper_ids": [
+      "50"
+    ]
+  },
+  "Army Research Laboratory": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7889516",
+    "paper_ids": [
+      "50"
+    ]
+  },
+  "the National Institute of Standards and Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q176691",
+    "paper_ids": [
+      "50"
+    ]
+  },
+  "Lockheed Martin Advanced Technology Laboratories": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6665578",
+    "paper_ids": [
+      "50"
+    ]
+  },
+  "NIST": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q15632844",
+    "paper_ids": [
+      "50",
+      "68"
+    ]
+  },
+  "NTT Corp.": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1054787",
+    "paper_ids": [
+      "50",
+      "68"
+    ]
+  },
+  "NeOn": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q654",
+    "paper_ids": [
+      "142",
+      "98",
+      "115"
+    ]
+  },
+  "the Ministry of Science, Research and Arts": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1937092",
+    "paper_ids": [
+      "238"
+    ]
+  },
+  "ESF": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7603610",
+    "paper_ids": [
+      "238",
+      "192"
+    ]
+  },
+  "Seventh Framework Programme": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q83204581",
+    "paper_ids": [
+      "238"
+    ]
+  },
+  "the Common Crawl foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q12055316",
+    "paper_ids": [
+      "238"
+    ]
+  },
+  "the European Social Fund": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q752343",
+    "paper_ids": [
+      "238",
+      "192"
+    ]
+  },
+  "the United States National Library of Medicine": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q611833",
+    "paper_ids": [
+      "59",
+      "64"
+    ]
+  },
+  "Millennium Nucleus Center for Semantic Web Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q27910422",
+    "paper_ids": [
+      "296"
+    ]
+  },
+  "the MaSI3 Fellowship": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2299472",
+    "paper_ids": [
+      "292"
+    ]
+  },
+  "the DBOnto Platform Grant": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5050096",
+    "paper_ids": [
+      "292"
+    ]
+  },
+  "Kaiser Permanente": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1721601",
+    "paper_ids": [
+      "292"
+    ]
+  },
+  "973 Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7248392",
+    "paper_ids": [
+      "368"
+    ]
+  },
+  "THUNUS NExT Co": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q46811212",
+    "paper_ids": [
+      "368"
+    ]
+  },
+  "National Natural Science Foundation of China": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4501917",
+    "paper_ids": [
+      "368"
+    ]
+  },
+  "Natural Science Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4501917",
+    "paper_ids": [
+      "368"
+    ]
+  },
+  "Fund of Online Education Research Center": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Data_donation",
+    "paper_ids": [
+      "368"
+    ]
+  },
+  "QROWD": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q114387890",
+    "paper_ids": [
+      "435",
+      "416"
+    ]
+  },
+  "BigDataOcean": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q114206590",
+    "paper_ids": [
+      "435",
+      "416"
+    ]
+  },
+  "Art & Science": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:WikiProject_sum_of_all_paintings",
+    "paper_ids": [
+      "9"
+    ]
+  },
+  "Master of Engineering": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1907867",
+    "paper_ids": [
+      "9"
+    ]
+  },
+  "Hewlett Packard\u2019s": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q80978",
+    "paper_ids": [
+      "9"
+    ]
+  },
+  "L\u00b4\u0131on": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q125975336",
+    "paper_ids": [
+      "117"
+    ]
+  },
+  "TAO": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q134425",
+    "paper_ids": [
+      "117"
+    ]
+  },
+  "JSPS KAKENHI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q59258325",
+    "paper_ids": [
+      "290"
+    ]
+  },
+  "EarthCube": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q110773390",
+    "paper_ids": [
+      "359"
+    ]
+  },
+  "the US National Science Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q304878",
+    "paper_ids": [
+      "359",
+      "349"
+    ]
+  },
+  "the Grant Agency": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Database_reports/EntitySchema_directory",
+    "paper_ids": [
+      "182"
+    ]
+  },
+  "the Swiss Re Institute": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q60233713",
+    "paper_ids": [
+      "396"
+    ]
+  },
+  "SOLIDE": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q18621161",
+    "paper_ids": [
+      "454",
+      "444"
+    ]
+  },
+  "KnowGraphs": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q33002955",
+    "paper_ids": [
+      "454",
+      "444"
+    ]
+  },
+  "Roke Manor Research Ltd.": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7359973",
+    "paper_ids": [
+      "289"
+    ]
+  },
+  "BETTER": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3639151",
+    "paper_ids": [
+      "442"
+    ]
+  },
+  "MELODIES": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4814139",
+    "paper_ids": [
+      "312"
+    ]
+  },
+  "Ontop": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q219561",
+    "paper_ids": [
+      "312",
+      "260"
+    ]
+  },
+  "the Wellcome Trust": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q326276",
+    "paper_ids": [
+      "67"
+    ]
+  },
+  "ComparaGRID": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples",
+    "paper_ids": [
+      "67"
+    ]
+  },
+  "The Institute for Genomic Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q14687618",
+    "paper_ids": [
+      "67"
+    ]
+  },
+  "BBSRC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q50614658",
+    "paper_ids": [
+      "67"
+    ]
+  },
+  "Fondo de Investicagiones Sanitarias": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5918253",
+    "paper_ids": [
+      "67"
+    ]
+  },
+  "University of Manchester": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q230899",
+    "paper_ids": [
+      "67"
+    ]
+  },
+  "the National Institute of Allergy and Infectious Disease U01 AI 48830": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3519875",
+    "paper_ids": [
+      "67"
+    ]
+  },
+  "MRC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2856187",
+    "paper_ids": [
+      "67"
+    ]
+  },
+  "ERRO \u2013": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q125164014",
+    "paper_ids": [
+      "280"
+    ]
+  },
+  "InterProlog": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q24741990",
+    "paper_ids": [
+      "280"
+    ]
+  },
+  "ELK": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Lists/US_counties",
+    "paper_ids": [
+      "280"
+    ]
+  },
+  "XSB": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q8042469",
+    "paper_ids": [
+      "280"
+    ]
+  },
+  "DIG": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q959782",
+    "paper_ids": [
+      "346",
+      "125"
+    ]
+  },
+  "Brewster Kahle": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q133341221",
+    "paper_ids": [
+      "369"
+    ]
+  },
+  "EU Commission": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q8880",
+    "paper_ids": [
+      "369"
+    ]
+  },
+  "the Semantic Media Network": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q114063210",
+    "paper_ids": [
+      "369"
+    ]
+  },
+  "the Internet Archive": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q461",
+    "paper_ids": [
+      "369"
+    ]
+  },
+  "National Cancer Institute": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q664846",
+    "paper_ids": [
+      "181"
+    ]
+  },
+  "Comprehensive Cancer Center Support Grant": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Property:P3153",
+    "paper_ids": [
+      "181"
+    ]
+  },
+  "the National Center for Research Resources": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6971366",
+    "paper_ids": [
+      "181"
+    ]
+  },
+  "NCI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q54908111",
+    "paper_ids": [
+      "181"
+    ]
+  },
+  "the Intramural Research Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q73703273",
+    "paper_ids": [
+      "181"
+    ]
+  },
+  "ISWC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Property:P1827",
+    "paper_ids": [
+      "42"
+    ]
+  },
+  "the Graduate School IME - University Karlsruhe": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1310061",
+    "paper_ids": [
+      "42"
+    ]
+  },
+  "ERA": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q15735759",
+    "paper_ids": [
+      "151",
+      "169"
+    ]
+  },
+  "the Natural Sciences and Engineering Research Council of Canada": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2993807",
+    "paper_ids": [
+      "151",
+      "169",
+      "168"
+    ]
+  },
+  "Siemens / DAAD Postgraduate Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q43820185",
+    "paper_ids": [
+      "249"
+    ]
+  },
+  "Nokia Research Center": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1418",
+    "paper_ids": [
+      "0"
+    ]
+  },
+  "Nokia Mobile Phones": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6449317",
+    "paper_ids": [
+      "0"
+    ]
+  },
+  "SRI International": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q604924",
+    "paper_ids": [
+      "0"
+    ]
+  },
+  "the U.K. Ministry of Defence": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1143261",
+    "paper_ids": [
+      "176"
+    ]
+  },
+  "the U.K. Government": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q145",
+    "paper_ids": [
+      "176"
+    ]
+  },
+  "the U.S. Army Research Laboratory": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7889516",
+    "paper_ids": [
+      "176"
+    ]
+  },
+  "SOA4All": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q104438311",
+    "paper_ids": [
+      "171",
+      "186"
+    ]
+  },
+  "Microsoft": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2283",
+    "paper_ids": [
+      "52"
+    ]
+  },
+  "NSF Graduate Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Database_reports/EntitySchema_directory",
+    "paper_ids": [
+      "52"
+    ]
+  },
+  "WeKnowIt": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q860734",
+    "paper_ids": [
+      "153"
+    ]
+  },
+  "Nyaya": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q112080337",
+    "paper_ids": [
+      "260",
+      "262"
+    ]
+  },
+  "Brazilian Government": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5015503",
+    "paper_ids": [
+      "103"
+    ]
+  },
+  "ICES": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Challenge_Wikidata_en_classe",
+    "paper_ids": [
+      "7"
+    ]
+  },
+  "Urbana-Champaign": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2948658",
+    "paper_ids": [
+      "49"
+    ]
+  },
+  "DAIS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3642894",
+    "paper_ids": [
+      "49"
+    ]
+  },
+  "Leverhulme Trust Research Project": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q56171723",
+    "paper_ids": [
+      "356"
+    ]
+  },
+  "BigDataEurope": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q91724539",
+    "paper_ids": [
+      "416"
+    ]
+  },
+  "SILKNOW": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q111993111",
+    "paper_ids": [
+      "458"
+    ]
+  },
+  "the Deutsche Forschungsgemeinschaft (": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:GEPRIS_Historisch_(DFG)/de",
+    "paper_ids": [
+      "324"
+    ]
+  },
+  "InDaSpacePlus": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "400"
+    ]
+  },
+  "SlideWiki": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6837796",
+    "paper_ids": [
+      "400"
+    ]
+  },
+  "the German Ministry of Education and Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q492234",
+    "paper_ids": [
+      "400"
+    ]
+  },
+  "the Collaborative Innovation Center of Novel Software Technology and Industrialization": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q108737236",
+    "paper_ids": [
+      "439"
+    ]
+  },
+  "the Haslerstiftung": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q30272126",
+    "paper_ids": [
+      "257"
+    ]
+  },
+  "NPD": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q111507712",
+    "paper_ids": [
+      "282"
+    ]
+  },
+  "the Norwegian Research Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4356293",
+    "paper_ids": [
+      "282"
+    ]
+  },
+  "MIT": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q49108",
+    "paper_ids": [
+      "15",
+      "90"
+    ]
+  },
+  "Project Oxygen": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q15657",
+    "paper_ids": [
+      "15"
+    ]
+  },
+  "the Millennium Nucleus Center for Web Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q116971294",
+    "paper_ids": [
+      "100"
+    ]
+  },
+  "THU-NUS NExT Co": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q46811212",
+    "paper_ids": [
+      "283"
+    ]
+  },
+  "863 High Technology Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2668388",
+    "paper_ids": [
+      "283"
+    ]
+  },
+  "Qualinca": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q20042677",
+    "paper_ids": [
+      "221"
+    ]
+  },
+  "the Baden-W\u00a8urttemberg Stiftung": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q798893",
+    "paper_ids": [
+      "178"
+    ]
+  },
+  "THESEUS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q56886188",
+    "paper_ids": [
+      "178"
+    ]
+  },
+  "the German Federal Ministry of Economics": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q488589",
+    "paper_ids": [
+      "178"
+    ]
+  },
+  "BMWi": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q26678",
+    "paper_ids": [
+      "178"
+    ]
+  },
+  "LSDIS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q61895761",
+    "paper_ids": [
+      "93"
+    ]
+  },
+  "Centro Ricerche ed Innovazione Tecnologica": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3664743",
+    "paper_ids": [
+      "85"
+    ]
+  },
+  "CRIT": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q87419925",
+    "paper_ids": [
+      "85"
+    ]
+  },
+  "RAI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q338690",
+    "paper_ids": [
+      "85"
+    ]
+  },
+  "PrestoSpace": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q113989598",
+    "paper_ids": [
+      "85"
+    ]
+  },
+  "the IWT Flanders": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q756727",
+    "paper_ids": [
+      "254"
+    ]
+  },
+  "iMinds": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2208735",
+    "paper_ids": [
+      "254"
+    ]
+  },
+  "the FWO-Flanders": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q13636795",
+    "paper_ids": [
+      "254"
+    ]
+  },
+  "the German Research Society": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q84844131",
+    "paper_ids": [
+      "74"
+    ]
+  },
+  "Berlin-Brandenburg School in Distributed Information Systems": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4892397",
+    "paper_ids": [
+      "74"
+    ]
+  },
+  "the National High-tech R&D Program of China": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q10926062",
+    "paper_ids": [
+      "310"
+    ]
+  },
+  "the EU": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q458",
+    "paper_ids": [
+      "342"
+    ]
+  },
+  "Elixir-Excelerate": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q133255524",
+    "paper_ids": [
+      "342"
+    ]
+  },
+  "ISCIII-FEDER": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5918335",
+    "paper_ids": [
+      "342"
+    ]
+  },
+  "MedBioinformatics": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q50668634",
+    "paper_ids": [
+      "342"
+    ]
+  },
+  "DAAD": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Special:EntityData/Q1421859.n3",
+    "paper_ids": [
+      "10"
+    ]
+  },
+  "US Army Research Laboratory": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7889516",
+    "paper_ids": [
+      "68"
+    ]
+  },
+  "National GeospatialIntelligence Agency": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1296491",
+    "paper_ids": [
+      "68"
+    ]
+  },
+  "Fujitsu Laboratories": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11456248",
+    "paper_ids": [
+      "68"
+    ]
+  },
+  "SAIC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7488453",
+    "paper_ids": [
+      "68"
+    ]
+  },
+  "Lockheed Martin Advanced Technology Laboratory": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6665578",
+    "paper_ids": [
+      "68"
+    ]
+  },
+  "Kevric Corp.": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "68"
+    ]
+  },
+  "DoD": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11209",
+    "paper_ids": [
+      "68"
+    ]
+  },
+  "270129": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q87834171",
+    "paper_ids": [
+      "244"
+    ]
+  },
+  "HP Labs": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q266936",
+    "paper_ids": [
+      "66"
+    ]
+  },
+  "Real Instituto Elcano": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q665721",
+    "paper_ids": [
+      "66"
+    ]
+  },
+  "PROFIT": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q26911",
+    "paper_ids": [
+      "66"
+    ]
+  },
+  "JENA": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3150",
+    "paper_ids": [
+      "66"
+    ]
+  },
+  "Buscador Sem\u00e1ntico": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "66"
+    ]
+  },
+  "Bitext": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1346592",
+    "paper_ids": [
+      "66"
+    ]
+  },
+  "TIC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q48805044",
+    "paper_ids": [
+      "66"
+    ]
+  },
+  "Sesame": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q12345",
+    "paper_ids": [
+      "66"
+    ]
+  },
+  "the federal ministry of education and research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q606227",
+    "paper_ids": [
+      "20"
+    ]
+  },
+  "SemIPort": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q21709248",
+    "paper_ids": [
+      "20"
+    ]
+  },
+  "the University of Arkansas for Medical Sciences": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q941298",
+    "paper_ids": [
+      "348"
+    ]
+  },
+  "the University of Florida": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q501758",
+    "paper_ids": [
+      "348"
+    ]
+  },
+  "OWL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:WikiProject_Ontology/Modelling",
+    "paper_ids": [
+      "348"
+    ]
+  },
+  "The Wellcome Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q60079944",
+    "paper_ids": [
+      "69"
+    ]
+  },
+  "Kepler": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q28856722",
+    "paper_ids": [
+      "69"
+    ]
+  },
+  "Sedna": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q15610",
+    "paper_ids": [
+      "69"
+    ]
+  },
+  "Geodise": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q825746",
+    "paper_ids": [
+      "69"
+    ]
+  },
+  "Triana": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q360414",
+    "paper_ids": [
+      "69"
+    ]
+  },
+  "ACTIVE": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Statistics",
+    "paper_ids": [
+      "115"
+    ]
+  },
+  "Siemens Corporate Research and Technologies": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q81230",
+    "paper_ids": [
+      "207"
+    ]
+  },
+  "CSO": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q110798766",
+    "paper_ids": [
+      "164"
+    ]
+  },
+  "the FREME Project": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2566745",
+    "paper_ids": [
+      "327"
+    ]
+  },
+  "EIT Digital": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q54420812",
+    "paper_ids": [
+      "327"
+    ]
+  },
+  "H2020 Framework Programme": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q13583472",
+    "paper_ids": [
+      "327"
+    ]
+  },
+  "Magpie": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q25307",
+    "paper_ids": [
+      "27"
+    ]
+  },
+  "The Open University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2413375",
+    "paper_ids": [
+      "27"
+    ]
+  },
+  "the UK Natural Environment Research Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4272261",
+    "paper_ids": [
+      "27"
+    ]
+  },
+  "Climateprediction.net": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1101446",
+    "paper_ids": [
+      "27"
+    ]
+  },
+  "Oxford University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q34433",
+    "paper_ids": [
+      "27"
+    ]
+  },
+  "UK Department of Trade e-Science Initiative": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q584148",
+    "paper_ids": [
+      "27"
+    ]
+  },
+  "CLRC Rutherford Appleton Labs": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q45820",
+    "paper_ids": [
+      "27"
+    ]
+  },
+  "Interdisciplinary Research Collaboration": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q89179530",
+    "paper_ids": [
+      "27"
+    ]
+  },
+  "ExpresST": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5350589",
+    "paper_ids": [
+      "192"
+    ]
+  },
+  "the Ministry of Science, Research and the Arts": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1937092",
+    "paper_ids": [
+      "192",
+      "367"
+    ]
+  },
+  "Information Society Technologies": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q114387890",
+    "paper_ids": [
+      "149"
+    ]
+  },
+  "Rolls-Royce plc.": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q243278",
+    "paper_ids": [
+      "149"
+    ]
+  },
+  "CNRS PEPS INS2I MODERN": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q24935922",
+    "paper_ids": [
+      "433"
+    ]
+  },
+  "the Innovative Medicines Initiative Joint Undertaking": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1664196",
+    "paper_ids": [
+      "247",
+      "245"
+    ]
+  },
+  "IDEAS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q22241789",
+    "paper_ids": [
+      "224"
+    ]
+  },
+  "Search Computing": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q56670499",
+    "paper_ids": [
+      "224"
+    ]
+  },
+  "PON": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q750794",
+    "paper_ids": [
+      "256"
+    ]
+  },
+  "Sina Institute": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6923670",
+    "paper_ids": [
+      "256"
+    ]
+  },
+  "part": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Property:P361",
+    "paper_ids": [
+      "111"
+    ]
+  },
+  "DTI": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q35834202",
+    "paper_ids": [
+      "111"
+    ]
+  },
+  "Project": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:WikiProjects",
+    "paper_ids": [
+      "111"
+    ]
+  },
+  "Rolls-Royce plc": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q243278",
+    "paper_ids": [
+      "111"
+    ]
+  },
+  "X": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q918",
+    "paper_ids": [
+      "111"
+    ]
+  },
+  "-": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "111"
+    ]
+  },
+  "Integrated": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q51490388",
+    "paper_ids": [
+      "111"
+    ]
+  },
+  "the  European  Commission": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q8880",
+    "paper_ids": [
+      "111"
+    ]
+  },
+  "Ministry of Education, Science and Sport": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11080185",
+    "paper_ids": [
+      "51"
+    ]
+  },
+  "the European Community": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q260487",
+    "paper_ids": [
+      "51"
+    ]
+  },
+  ".": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "51",
+      "120"
+    ]
+  },
+  "Dot": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q172008",
+    "paper_ids": [
+      "51"
+    ]
+  },
+  "a Marie Curie Fellowship": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6762810",
+    "paper_ids": [
+      "51"
+    ]
+  },
+  "AIFB": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1452315",
+    "paper_ids": [
+      "51"
+    ]
+  },
+  "the Slovenian": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q12792240",
+    "paper_ids": [
+      "51"
+    ]
+  },
+  "the Spanish Ministry of Science and Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q54834070",
+    "paper_ids": [
+      "37"
+    ]
+  },
+  "Klagenfurt University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q690639",
+    "paper_ids": [
+      "121"
+    ]
+  },
+  "the Air Force O\ufb03ce of Scienti\ufb01c Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q45136877",
+    "paper_ids": [
+      "127"
+    ]
+  },
+  "BNL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q585777",
+    "paper_ids": [
+      "107"
+    ]
+  },
+  "SUPER": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q106187667",
+    "paper_ids": [
+      "107"
+    ]
+  },
+  "Free University of Bozen-Bolzano": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1231433",
+    "paper_ids": [
+      "107",
+      "351"
+    ]
+  },
+  "the BIT Institute": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q17183065",
+    "paper_ids": [
+      "107"
+    ]
+  },
+  "US Army Research O\ufb03ce": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q38808347",
+    "paper_ids": [
+      "107"
+    ]
+  },
+  "GESIS - Leibniz Institute for the Social Sciences": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1485220",
+    "paper_ids": [
+      "255"
+    ]
+  },
+  "Springer DE": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q21587985",
+    "paper_ids": [
+      "402"
+    ]
+  },
+  "CORAAL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q58043510",
+    "paper_ids": [
+      "132"
+    ]
+  },
+  "EUREEKA": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3284792",
+    "paper_ids": [
+      "132"
+    ]
+  },
+  "Statoil": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4992912",
+    "paper_ids": [
+      "341"
+    ]
+  },
+  "FUB": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q20754971",
+    "paper_ids": [
+      "240"
+    ]
+  },
+  "the Austrian Research Promotion Agency": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q392885",
+    "paper_ids": [
+      "302",
+      "120"
+    ]
+  },
+  "ADEQUATe": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q949149",
+    "paper_ids": [
+      "302"
+    ]
+  },
+  "FFG": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q65046167",
+    "paper_ids": [
+      "302",
+      "120",
+      "426"
+    ]
+  },
+  "Bielefeld University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q24382",
+    "paper_ids": [
+      "358"
+    ]
+  },
+  "the Cluster of Excellence Cognitive Interaction Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q104757241",
+    "paper_ids": [
+      "358"
+    ]
+  },
+  "the U.S. Army Research O\ufb03ce": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q38808347",
+    "paper_ids": [
+      "246"
+    ]
+  },
+  "the University of Oregon": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q766145",
+    "paper_ids": [
+      "158"
+    ]
+  },
+  "COMET": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q63759308",
+    "paper_ids": [
+      "120",
+      "426"
+    ]
+  },
+  "The Know-Center": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q30285052",
+    "paper_ids": [
+      "120"
+    ]
+  },
+  "the Austrian Ministry of Transport, Innovation and Technology": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q871765",
+    "paper_ids": [
+      "120"
+    ]
+  },
+  "the Austrian Ministry of Economics and Labor": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q15725659",
+    "paper_ids": [
+      "120"
+    ]
+  },
+  "the Austrian COMET Program": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q64804815",
+    "paper_ids": [
+      "120"
+    ]
+  },
+  "APOSDLE": {
+    "wikidata_url": "https://m.wikidata.org/wiki/Q43412",
+    "paper_ids": [
+      "120"
+    ]
+  },
+  "European Community": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q260487",
+    "paper_ids": [
+      "157"
+    ]
+  },
+  "Presto/Prexto": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q124041149",
+    "paper_ids": [
+      "262"
+    ]
+  },
+  "PIF": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q29617465",
+    "paper_ids": [
+      "262"
+    ]
+  },
+  "REQUIEM": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7314846",
+    "paper_ids": [
+      "262"
+    ]
+  },
+  "UPM": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q82953342",
+    "paper_ids": [
+      "262",
+      "17"
+    ]
+  },
+  "myBigData": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q31030367",
+    "paper_ids": [
+      "262"
+    ]
+  },
+  "the SIRIUS Centre for Scalable Access in the Oil and Gas Domain": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q56433979",
+    "paper_ids": [
+      "417"
+    ]
+  },
+  "MIT CSAIL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1354917",
+    "paper_ids": [
+      "90"
+    ]
+  },
+  "Haystack": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q19912659",
+    "paper_ids": [
+      "90"
+    ]
+  },
+  "the World Wide Web Consortium": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q37033",
+    "paper_ids": [
+      "90"
+    ]
+  },
+  "the Simile Project": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q132560563",
+    "paper_ids": [
+      "90"
+    ]
+  },
+  "Librar": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q104863992",
+    "paper_ids": [
+      "90"
+    ]
+  },
+  "Score!": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q133875874",
+    "paper_ids": [
+      "259"
+    ]
+  },
+  "MEC": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q121459720",
+    "paper_ids": [
+      "17"
+    ]
+  },
+  "Esperonto": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q607188",
+    "paper_ids": [
+      "17"
+    ]
+  },
+  "NWO CATCH": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q129724",
+    "paper_ids": [
+      "140"
+    ]
+  },
+  "STITCH": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6548398",
+    "paper_ids": [
+      "140"
+    ]
+  },
+  "KB": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "140"
+    ]
+  },
+  "EternalS": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q23894629",
+    "paper_ids": [
+      "196"
+    ]
+  },
+  "European Connect": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "196"
+    ]
+  },
+  "the National Center for Biomedical": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q30253692",
+    "paper_ids": [
+      "265"
+    ]
+  },
+  "Nigel  \fPolicy-Aware Content Reuse": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q55693431",
+    "paper_ids": [
+      "125"
+    ]
+  },
+  "University of Southampton": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q76473",
+    "paper_ids": [
+      "125"
+    ]
+  },
+  "UK Engineering and Physical Sciences Research Council": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5377871",
+    "paper_ids": [
+      "125"
+    ]
+  },
+  "the Industrial Ontologies Group": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q114795946",
+    "paper_ids": [
+      "309"
+    ]
+  },
+  "the Insight Centre for Data Analytics": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "paper_ids": [
+      "309"
+    ]
+  },
+  "the University of Jyv\u00a8askyl\u00a8a, Finland": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q578326",
+    "paper_ids": [
+      "309"
+    ]
+  },
+  "the Ministerio de Economia y Competitividad": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11231196",
+    "paper_ids": [
+      "373"
+    ]
+  },
+  "the Netherlands Organization for Scienti\ufb01c Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q59039359",
+    "paper_ids": [
+      "56"
+    ]
+  },
+  "Science": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q336",
+    "paper_ids": [
+      "122"
+    ]
+  },
+  "Foundation": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q876787",
+    "paper_ids": [
+      "122"
+    ]
+  },
+  "Ontogrid": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q62045009",
+    "paper_ids": [
+      "78"
+    ]
+  },
+  "ISICIL": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q66708510",
+    "paper_ids": [
+      "130"
+    ]
+  },
+  "Universidad Polit\u00e9cnica de Madrid": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q25864",
+    "paper_ids": [
+      "94"
+    ]
+  },
+  "Netwerk Digitaal Erfgoed": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:GLAM/Netwerk_Digitaal_Erfgoed",
+    "paper_ids": [
+      "386"
+    ]
+  },
+  "the National Library of the Netherlands": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1526131",
+    "paper_ids": [
+      "386"
+    ]
+  },
+  "netidee SCIENCE": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q336",
+    "paper_ids": [
+      "426"
+    ]
+  },
+  "FWF": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q909037",
+    "paper_ids": [
+      "426"
+    ]
+  },
+  "the Christian Doppler Research Association": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q30265737",
+    "paper_ids": [
+      "426"
+    ]
+  },
+  "the Austrian Science Fund": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q383273",
+    "paper_ids": [
+      "426"
+    ]
+  },
+  "SBA Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Wikidata:Introduction",
+    "paper_ids": [
+      "426"
+    ]
+  },
+  "the Science Foundation Ireland": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3475731",
+    "paper_ids": [
+      "252"
+    ]
+  },
+  "Storm Technology Ltd.": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q109587075",
+    "paper_ids": [
+      "252"
+    ]
+  },
+  "the Irish Research Council for Science, Engineering and Technology Enterprise Partnership Scheme": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q17082152",
+    "paper_ids": [
+      "252"
+    ]
+  },
+  "the European Commission\u2019s": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q8880",
+    "paper_ids": [
+      "245"
+    ]
+  },
+  "NIF": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6922413",
+    "paper_ids": [
+      "276"
+    ]
+  },
+  "7th Framework Programme": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q38156206",
+    "paper_ids": [
+      "276"
+    ]
+  },
+  "Organization for Scienti\ufb01c Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16519632",
+    "paper_ids": [
+      "393"
+    ]
+  },
+  "the Center for Data Science": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q119850263",
+    "paper_ids": [
+      "393"
+    ]
+  },
+  "MaestroGraph": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q109301770",
+    "paper_ids": [
+      "393"
+    ]
+  },
+  "the IDEX Paris-Saclay": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q109409389",
+    "paper_ids": [
+      "393"
+    ]
+  },
+  "Osaka University": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q651233",
+    "paper_ids": [
+      "72"
+    ]
+  },
+  "the US Air Force Office of Scientific Research": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q45136877",
+    "paper_ids": [
+      "6"
+    ]
+  },
+  "FAIR* Review": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11310978",
+    "paper_ids": [
+      "404"
+    ]
+  },
+  "the Alfred P. Sloan Foundation for the OpenCitations Enhancement Project": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1200258",
+    "paper_ids": [
+      "404"
+    ]
+  },
+  "Jisc": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6269240",
+    "paper_ids": [
+      "404"
+    ]
+  }
+}
